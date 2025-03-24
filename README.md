@@ -37,7 +37,7 @@ Resume: [Resume Link](#)
 - **Virtual Internship Certificate**: Successfully completed the Data Analytics Virtual Internship Project on Trainity platform.  
   [View Certificate](https://drive.google.com/file/d/1R8AYDc762c7YkSY5IB0OAQFfM843/view?usp=sharing)
 
-### 🌐 Socials  
+### Connect with Me : 
 <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
 </a>
