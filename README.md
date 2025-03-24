@@ -19,10 +19,12 @@ Resume: [Resume Link](#)
 ---
 
 ### 🛠 Tech I work on :
-![Tableau](https://img.shields.io/badge/Tableau-FF6F00?style=flat-square&logo=Tableau&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=Power-BI&logoColor=black)  
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=Microsoft-Excel&logoColor=white)
+<div style="text-align: left;">
+  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" title="Tableau" style="margin-right: 20px;" />
+  <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL" title="MySQL" style="margin-right: 20px;" />
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" title="Power BI" style="margin-right: 20px;" />
+  <img src="https://img.icons8.com/fluency/48/000000/microsoft-excel-2019.png" alt="Microsoft Excel" title="Microsoft Excel" />
+</div>
 
 # 📜 Certifications
 
@@ -36,8 +38,12 @@ Resume: [Resume Link](#)
   [View Certificate](https://drive.google.com/file/d/1R8AYDc762c7YkSY5IB0OAQFfM843/view?usp=sharing)
 
 ### 🌐 Socials  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/rashidhabegumabdulrazack)  
-📫 Email: [rashidha.abdul@gmail.com](mailto:rashidha.abdul@gmail.com)
+<a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
+</a>
+<a href="mailto:rashidha.abdul@gmail.com">
+  <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" />
+</a>
 
 ## 📊 GitHub Stats:
 ![Rashidha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RashidhaBegum&show_icons=true&theme=radical)
